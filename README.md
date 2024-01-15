@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bistapratikshya.
-- 👀 I’ve lost interest in coding.
+- 👀 I have interest in coding.
 - 🌱 I’m currently learning html.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
